@@ -1,5 +1,6 @@
-# web_banners
+# practice-demonstrate
 
-This Python notebook explores an online display advertisement data set. The data are collected by a retargeting company to analyze the declining gross profit on one of its client advertiser accounts.
+This repository contains Python programs for practice and demonstration.
 
-This exercise includes exploratory data analysis and predictive analytics.
+- [Web banners](https://github.com/dorei/practice-demonstrate/blob/master/ipynb/web_banners.ipynb)  
+*Exploratory data analysis of an online display advertisement data set.*
