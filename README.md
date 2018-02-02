@@ -4,7 +4,7 @@ This repository contains Python programs for practice and demonstration.
 
 |Analytics|
 |---|
-|[Search engine results](https://github.com/dorei/practice-demonstrate/blob/master/)<br>Search analytics exercise with event logging data. *Initially presented as a [take-home task](https://github.com/wikimedia-research/Discovery-Hiring-Analyst-2016/blob/master/README.md) for candidates applying to be a Data Analyst in the Discovery department at Wikimedia Foundation.*|
+|[Search engine results](https://github.com/dorei/practice-demonstrate/blob/master/ipynb/search_engine_results.ipynb)<br>Search analytics exercise with event logging data. *Initially presented as a [take-home task](https://github.com/wikimedia-research/Discovery-Hiring-Analyst-2016/blob/master/README.md) for candidates applying to be a Data Analyst in the Discovery department at Wikimedia Foundation.*|
 |[Web banners](https://github.com/dorei/practice-demonstrate/blob/master/ipynb/web_banners.ipynb)<br>*Exploratory data analysis of an online display advertisement dataset.*|
 
 |Concepts|
