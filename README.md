@@ -9,4 +9,4 @@ This repository contains Python programs for practice and demonstration.
 
 |Concepts|
 |---|
-|[PCA step by step in TensorFlow](https://github.com/dorei/practice-demonstrate/blob/master/)<br>*Implementing a Principal Component Analysis almost from scratch in TensorFlow. Inspired by [Raschka's NumPy's version](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html).*|
+|[PCA step by step in TensorFlow](https://github.com/dorei/practice-demonstrate/blob/master/ipynb/pca_tf.ipynb)<br>*Implementing a Principal Component Analysis almost from scratch in TensorFlow. Adapted from [Raschka's NumPy's version](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html).*|
