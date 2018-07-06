@@ -4,6 +4,7 @@ Short Python programs for practice and demonstration.
 
 |List|
 |---|
+|[Linear regression assumptions](https://github.com/dorei/shorts/blob/master/ipynb/lin_reg_assumptions.ipynb)<br>*Testing the assumptions of linear regression with statistical tests and charts.*|
 |[Markov matrix](https://github.com/dorei/shorts/blob/master/ipynb/markov_matrix.ipynb)<br>*Visualizing a Markov matrix.*|
 |[Nowcast performance](https://github.com/dorei/shorts/blob/master/ipynb/nowcast.ipynb)<br>*Nowcasting is the prediction of the present, the very near future and the very recent past in economics ([Wikipedia definition](https://en.wikipedia.org/wiki/Nowcasting_(economics))). The Federal Reserve Bank of Cleveland inflation nowcasts integrate new data as they become available. How much more accurate do the nowcasts get over time?*|
 |[PCA step by step in TensorFlow](https://github.com/dorei/practice-demonstrate/blob/master/ipynb/pca_tf.ipynb)<br>*Implementing a Principal Component Analysis almost from scratch in TensorFlow. Adapted from [Raschka's NumPy's version](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html).*|
